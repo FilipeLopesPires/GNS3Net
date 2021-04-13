@@ -1,6 +1,11 @@
 # GNS3Net
 A Network Simulation using GNS3
 
+![](https://img.shields.io/badge/Academical%20Project-Yes-green)
+![](https://img.shields.io/badge/Made%20with-GNS3-blue)
+![](https://img.shields.io/badge/License-Free%20To%20Use-green)
+![](https://img.shields.io/badge/Maintained-No-red)
+
 ## Description 
 
 The goal of this project is to provide a configuration for an internal company network and the mechanisms to communicate with outside networks.
